@@ -775,3 +775,5 @@ $databases['default']['default'] = array (
 );
 $settings['install_profile'] = 'standard';
 $config_directories['sync'] = 'sync';
+$config['config_split.config_split.dev']['status'] = TRUE;
+$config['system.site']['name'] = 'site test';
