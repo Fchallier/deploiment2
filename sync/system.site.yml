@@ -1,0 +1,14 @@
+uuid: b54b52de-7d7a-4752-aee7-259345f2d079
+name: 'Drupal 8 site ERIC B'
+mail: webmaster@escpeurope.eu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
